@@ -3,8 +3,14 @@ h1 {
 }
 
 ol {
-    border: gold, 1, solid;
+    border: gold 1px solid;
 }
-ul{
-    border: purple, 1, solid;
+
+ul {
+    border: purple 1px solid;
+}
+
+ul, ol {
+    padding: 5px 20px;
+    border-radius: 5px;
 }
