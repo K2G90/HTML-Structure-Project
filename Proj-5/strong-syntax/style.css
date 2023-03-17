@@ -1,7 +1,7 @@
-h1 {
-
+h1, strong {
+    color: blue;
 }
 
-strong {
-    
+em {
+    color:beige
 }
